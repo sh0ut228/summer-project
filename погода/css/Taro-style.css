@@ -1,0 +1,139 @@
+footer {
+background-color: rgba(210, 186, 150, 0.81);
+text-decoration:none;
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 69px;
+display: flex;
+text-align: left;
+text-align: center;
+text-indent: 1px;
+color: black;
+}
+
+body{
+    background-color: rgba(210, 186, 150, 0.81);
+}
+
+.pogoda {
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    position: absolute;
+    right: 1000px;
+    top: 80px;
+}
+
+.taro {
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    position: absolute;
+    right: 600px;
+    top: 80px;
+}
+
+.goroskop {
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    position: absolute;
+    right: 100px;
+    top: 80px;
+}
+
+.rectangle {
+    top: 284px;
+    right: 98px;
+    position: absolute;
+    width: 1700px;
+    height: 760px;
+    background: rgba(187, 168, 145, 0.77);
+    border-radius: 45px;
+
+}
+
+p{
+    font-size: 28px;
+    width: 1300px;
+}
+
+.taro-today {
+    width: 250px;
+    position: absolute;
+    right: 64px;
+    display: flex;
+}
+
+button {
+    color: white;
+    margin-left: 190px;
+    margin-top: 200px;
+    font-size: 37px;
+    width: 198px;
+    height: 83px;
+    background: rgba(57, 22, 22, 0.85);
+    border-radius: 45px
+}
+
+
+.first-taro {
+    left: 208px;
+    top: 330px;
+    position: absolute;
+    width: 164px;
+    height: 224px;
+}
+.two-taro {
+    left: 599px;
+    top: 330px;
+    position: absolute;
+    width: 164px;
+    height: 224px;
+}
+.three-taro {
+    left: 995px;
+    top: 330px;
+    position: absolute;
+    width: 164px;
+    height: 224px;
+}
+
+.four-taro {
+    right: 13px;
+    top: 330px;
+    position: absolute;
+    width: 164px;
+    height: 224px;
+}
+
+.taro-day{
+    position: absolute;
+    background: border-box;
+    top: 950px;
+}
+
+.Taro {
+    right: 211px;
+    top: 100px;
+    position: absolute;
+    width: 797px;
+    height: 48px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 46px;
+    display: flex;
+    color: #3D4D5F;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.07);
+    z-index: 4;
+}
+
+.group2{
+    position: absolute;
+    top: 1600px;
+    right: 237px;
+}
